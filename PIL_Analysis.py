@@ -1,9 +1,5 @@
 Python Pillow 
-
 PIL - (Python Image Library)
-
-Digital Image processing means processing the image digitally with the help of a computer. Using image processing we can perform operations like enhancing the image, blurring the image, extracting text from images, and many more operations. There are various ways to process images digitally. Here we will discuss the Pillow module of Python.
-
 
 # Installation
 pip install pillow
